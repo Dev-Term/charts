@@ -9,7 +9,7 @@ This repository contains Helm charts for various projects
 
 Add the Repository to Helm:
 
-    helm repo add dev-terminal https://tech.paulcz.net/dev-terminal
+    helm repo add dev-terminal https://dev-term.github.io/charts
 
 Install Spring Boot:
 

@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  spring-boot:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-09T21:46:55.028739433+01:00"
+    description: A Helm chart for Kubernetes
+    digest: eb2ad8dfa1384bb015e1f56d0b73b0547dd454d1cdac5067f1e58bdef2df3a64
+    name: spring-boot
+    urls:
+    - https://github.com/Dev-Term/charts/releases/download/spring-boot-0.1.0/spring-boot-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-09T21:25:14.35922427+01:00"
